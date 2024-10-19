@@ -1,0 +1,102 @@
+body{
+    background-color: #80808017;
+}
+.text img{
+    height: 104px;
+    margin-left: -30px;
+    
+}
+.text .con{
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top: -34px;
+    font-size: 29px;
+}
+.text .head{
+    box-sizing: border-box;
+    margin-right: 0;
+    padding-right: 32px;
+    width: 580px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 12%;
+    margin-left: 13%;
+}
+.boxx{
+    background-color: white;
+    border: 1px solid black;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 8px;
+    width: 400px;
+    height: 350px;
+    padding: 30px 15px;
+    justify-content: space-between;
+    text-align: center;
+   margin-top: 9%;
+   box-sizing: border-box;
+   border: none;
+   box-shadow: 0px 0px 23px 5px #80808033;
+}
+.boxx .box{
+    width:  327px;
+    padding: 15px;
+    font-size: 17px;
+    border-radius: 6px;
+    border:1px solid #80808026;
+    margin-bottom: 10px;
+
+}
+.boxx .box:focus{
+    outline: 0;
+    border: 1px solid #0866ff;
+    box-shadow:  0px 0px 1px 0px #0866ff;
+    
+}
+
+.boxx .btn{
+    width: 100%;
+    /* padding: 10px; */
+    background-color: #0866ff;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 48px;
+    padding: 0 16px;
+    color:white;
+    margin-bottom: 15px;
+   
+}
+.boxx a{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: #0866ff;
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+.boxx hr{
+    align-items: center;
+    border-bottom: 1px solid #80808026;
+    display: flex;
+    margin: 20px 16px;
+    text-align: center;
+}
+.boxx .bn{
+    border: none;
+    border-radius: 6px;
+    font-size: 17px;
+    line-height: 48px;
+    padding: 0 16px;
+    background-color: #42b72a;
+    color: white;
+}
+.para p{
+    
+    border-top: none;
+    color: #1c1e21;
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    padding-top: 10px;
+    margin-left: 60%;
+}
